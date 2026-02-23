@@ -1,4 +1,5 @@
 a = 5
 b = 3
 b = a
-print(a,b,seq = " ")
+print(a)
+print(b)
